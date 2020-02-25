@@ -1,0 +1,3 @@
+Author: Akshitha Pothamshetty
+
+This is ball_chaser package.
