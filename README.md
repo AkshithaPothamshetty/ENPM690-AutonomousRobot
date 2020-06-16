@@ -19,7 +19,9 @@ Instructions to run the program:
 
 5. Execute the launch files
     cd ~/catkin_ws
+    
   Open two terminals(T1 and T2) and run the following commands:
+  
     T1: source ~/catkin_ws/devel/setup.bash
     T1: roslaunch my_robot robot_description.launch
     T2: source ~/catkin_ws/devel/setup.bash
