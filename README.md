@@ -23,7 +23,7 @@ Instructions to run the program:
   Open two terminals(T1 and T2) and run the following commands:
   
     T1: source ~/catkin_ws/devel/setup.bash
-    T1: roslaunch my_robot robot_description.launch
+    T1: roslaunch my_robot world.launch
     T2: source ~/catkin_ws/devel/setup.bash
     T2: roslaunch ball_chaser ball_chaser.launch
 
